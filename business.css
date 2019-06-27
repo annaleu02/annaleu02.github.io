@@ -12,6 +12,9 @@ figure		{
 	color: white;
 	margin: 0;
 		}
+#image {
+	text-align:center;
+}
 		
 img		{
 		border-color: black;
