@@ -172,11 +172,12 @@ nav	{
 }
 
 .movie {
-	position: fixed;
-  top: 50%;
-  left: 50%;
-  margin-top: -50px;
-  margin-left: -100px;
+	display: block;
+	padding: 0;
+	margin-top: 2em;
+	margin-right: 3em;
+	margin-bottom: 0.5em;
+	margin-left: 1em;
 }
 
 .row 	{
