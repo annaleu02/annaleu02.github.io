@@ -13,7 +13,7 @@ figure		{
 	margin: 0;
 		}
 .image {
-padding: 20px;
+position: absolute;
 }
 		
 img		{
