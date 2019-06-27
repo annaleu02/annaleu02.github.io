@@ -175,11 +175,8 @@ nav	{
 }
 
 .movie {
-	position: fixed;
-  top: 50%;
-  left: 50%;
-  margin-top: -50px;
-  margin-left: -100px;
+    display: table-cell;
+    vertical-align: middle
 }
 
 .row 	{
