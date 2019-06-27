@@ -15,6 +15,7 @@ figure		{
 #image {
 	text-align: center;
 	margin:0;
+	object-fit:cover;
 		
 img		{
 		border-color: black;
