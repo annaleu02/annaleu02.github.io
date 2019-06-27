@@ -13,7 +13,7 @@ figure		{
 	margin: 0;
 		}
 #image {
-	text-align:center;
+	position: absolute;
 }
 		
 img		{
@@ -174,8 +174,6 @@ nav	{
 
 #movie {
 	position: absolute;
-  left: 100px;
-  top: 150px;
 }
 
 .row 	{
