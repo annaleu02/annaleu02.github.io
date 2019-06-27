@@ -171,8 +171,8 @@ nav	{
 
 #movie {
 	position: absolute;
-  top: 50%;
-  left: 50%;
+  left: 100px;
+  top: 150px;
 }
 
 .row 	{
