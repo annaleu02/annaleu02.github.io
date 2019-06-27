@@ -11,7 +11,6 @@ figure		{
 	text-align: center;
 	color: white;
 	margin: 0;
-	position: fixed;
 		}
 
 		
@@ -173,8 +172,9 @@ nav	{
 
 .movie {
 	display: block;
+	float: center;
 	padding: 0;
-	margin-top: 2em;
+	margin-top: 0em;
 	margin-right: 3em;
 	margin-bottom: 0.5em;
 	margin-left: 1em;
