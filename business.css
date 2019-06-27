@@ -13,11 +13,8 @@ figure		{
 	margin: 0;
 		}
 #image {
-	 position:absolute; 
-  top:0; 
-  bottom:0; 
-  margin: auto;
-  width:100%;
+	text-align:center;
+  	width:100%;
 }
 		
 img		{
