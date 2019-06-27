@@ -170,11 +170,9 @@ nav	{
 }
 
 #movie {
-	position: relative;
+	position: absolute;
   top: 50%;
   left: 50%;
-  margin-top: -50px;
-  margin-left: -100px;
 }
 
 .row 	{
