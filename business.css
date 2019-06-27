@@ -14,9 +14,7 @@ figure		{
 		}
 #image {
 	text-align:center;
-	width: auto;
-	position: relative;
-	display: block;
+	object-fit:cover;
 }
 		
 img		{
