@@ -172,7 +172,7 @@ nav	{
 
 .movie {
 	display: block;
-	float: center;
+	vertical-align: middle;
 	padding: 0;
 	margin-top: 0em;
 	margin-right: 3em;
