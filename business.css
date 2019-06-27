@@ -169,8 +169,8 @@ nav	{
 	margin-left: 1em;
 }
 
-.movie {
-	position: fixed;
+#movie {
+	position: absolute;
   top: 50%;
   left: 50%;
   margin-top: -50px;
