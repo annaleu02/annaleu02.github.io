@@ -58,6 +58,7 @@ ul 	{
 	border-style: dotted;
 	border-color: black;
 	width: 50em;
+	height: auto;
 	margin-left: auto;
 	margin-right: auto;
 	padding:1em;
